@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>animations</title>
+	<title>cartoon animations</title>
 	<meta charset="utf-8" />
 	<link rel="stylesheet" href="css/animations.css">
 	<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
