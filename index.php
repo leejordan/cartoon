@@ -12,7 +12,7 @@
 		<img id="goody-girl" class="animate hover click-fly" src="images/goody-girl.png" alt="goody girl" />
 		<img id="monsieur-le-box" class="animate hop click-jump" src="images/monsieur-le-box.png" alt="monsieur-le-box" />
 		<img id="letterbox-face" class="animate hop click-flip" src="images/letterbox-face.png" alt="letterbox-face" />
-		<!-- <img id="mr-punnet" class="animate hop-flip" src="images/mr-punnet.png" alt="mr-punnet" /> -->
+		<img id="mr-punnet" class="animate hop click-jump" src="images/mr-punnet.png" alt="mr-punnet" />
 	</div>
 
 	<script>

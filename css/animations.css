@@ -34,7 +34,8 @@ body {
 }
 
 #mr-punnet {
-
+    left: 5%;
+    bottom: 2%;
 }
 
 .hop {
@@ -148,14 +149,17 @@ body {
     0% {
         -webkit-transform: translate(0%, 0%);
     }
-    30% {
-        -webkit-transform: translate(-100%, 0%);
+    50% {
+        -webkit-transform: translate(-200%, 0%);
     }
-    31% {
-    	-webkit-transform: translate(200%, 0%);
+    55% {
+        -webkit-transform: translate(-200%, 0%);
+        -webkit-transform: rotatey(180deg);
+        -webkit-transform-origin: -50% 0%;
     }
-    60% {
-    	-webkit-transform: translate(200%, 0%);
+    95% {
+    	-webkit-transform: translate(0%, 0%);
+        -webkit-transform: rotatey(180deg);
     }
     100% {
         -webkit-transform: translate(0%, 0%);
